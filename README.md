@@ -89,9 +89,9 @@ A symbolic mathematics engine for the TI-Nspire CX (non-CAS models), written ent
 
 ## Not Yet Implemented
 
-### Pretty Printing
-- Output is readable but not minimal  
-  (e.g. `factorial(x)/x` → `factorial(x) * x^(-1)`)
+### Exact Engine
+- Still WIP 
+  
 
 ---
 
