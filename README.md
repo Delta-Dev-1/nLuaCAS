@@ -3,6 +3,7 @@
 ![nLuaCAS for Light Mode](https://github.com/user-attachments/assets/9afb1f0a-9372-4887-91d8-3c445a32b1c8#gh-light-mode-only)
 
 A symbolic mathematics engine for the TI-Nspire CX (non-CAS models), written entirely in Lua. No Ndless, no OS patches — just native capabilities repurposed for symbolic algebra.
+![Screenshot1](https://github.com/user-attachments/assets/83e15807-8f1c-47a7-b3dc-1daabd4e075b)
 
 > Educational tool. Use during assessments only if explicitly permitted.
 
@@ -209,6 +210,9 @@ Raw Input String
 ```
 
 ---
+## More Screenshots
+![ScreenshotMenu](https://github.com/user-attachments/assets/e3d38481-fb91-4123-9ccb-711702107348)
+![About](https://github.com/user-attachments/assets/df9bc3ec-a7c5-485d-b919-e435adc88286)
 
 ## License & Attribution
 
