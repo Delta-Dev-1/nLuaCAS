@@ -1,4 +1,5 @@
 # [WIP] nLuaCAS – Symbolic Calculus Engine for TI-Nspire CX
+![logo3](https://github.com/user-attachments/assets/9afb1f0a-9372-4887-91d8-3c445a32b1c8)
 
 A symbolic mathematics engine for the TI-Nspire CX (non-CAS models), written entirely in Lua. No Ndless, no OS patches — just native capabilities repurposed for symbolic algebra.
 
