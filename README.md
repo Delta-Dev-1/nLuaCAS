@@ -19,9 +19,8 @@ A symbolic mathematics engine for the TI-Nspire CX (non-CAS models), written ent
 
 1. **Transfer** `nLuaCAS.tns` to your calculator using TI-Nspire Link or [nLink](https://lights0123.com/n-link/)
 2. **Open** it from the Documents screen
-3. **Type** expressions in the Main tab
-4. **Switch** tabs using `TAB` — History, Help, etc.
-
+3. **Type** expressions in the editor
+4. **Open** the menu using `MENU` — History, Help, etc.
 > New commands available: `series()` for series expansions and enhanced `int()` supporting integration by parts.
 
 ### Example Inputs
