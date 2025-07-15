@@ -216,7 +216,7 @@ Raw Input String
 ## License & Attribution
 
 - Symbolic engine and transformation logic:  
-  © 2024 DeltaDev — MIT License
+  © 2025 DeltaDev — MIT License
 
 - UI base adapted from:  
   SuperSpire (S²) by Xavier Andréani  
@@ -229,7 +229,7 @@ No TI firmware, OS binaries, or proprietary assets are used.
 
 ## Credits
 
-- Engine, AST system, documentation — [@DeltaDev](https://github.com/yourusername)  
+- Engine, AST system, documentation — [@DeltaDev](https://github.com/Delta-Dev-1)  
 - UI framework — SuperSpire by Xavier Andréani  
 - Build system concept — [Adriweb](https://github.com/adriwebs)  
 - Developed with support from the open calculator ecosystem
