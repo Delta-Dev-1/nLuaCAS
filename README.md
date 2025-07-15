@@ -114,7 +114,7 @@ To deal with this, `nLuaCAS` uses a lightweight build process:
 2. You deploy it via:
 
    - **Option A**: Copy `build.lua` into the TI Lua editor.
-   - **Option B**: Use [Luna](https://github.com/tangrs/luna) to compile it into `.tns`  
+   - **Option B**: Use [Luna](https://github.com/ndless-nspire/Luna) to compile it into `.tns`  
      
 
 ```
